@@ -1,4 +1,4 @@
-Hosted using GitHub Pages.
+Hosted with GitHub Pages.
 
 See the source: https://github.com/FairlyTales/Personal_website_source
 
